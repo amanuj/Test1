@@ -9,7 +9,7 @@ This is a **test** repository. This is only for __demo__ purpose.
 
 go to [Harvesting Clouds](http://harvestingClouds.com) blog.
 
-        Get-Help
-        #Custom Comment
+    Get-Help
+    #Custom Comment
  
  Code is over.
